@@ -1,0 +1,1 @@
+class TimeOut extends Exception {}

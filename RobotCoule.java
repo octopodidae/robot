@@ -1,0 +1,1 @@
+class RobotCoule extends Exception {}
